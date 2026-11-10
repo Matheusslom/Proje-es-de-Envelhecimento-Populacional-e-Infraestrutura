@@ -1,0 +1,26 @@
+uf,capital,persona_prefeito,ano,pct_0_14,pct_15_64,pct_65_mais,indice_envelhecimento,idade_mediana,razao_sexo_capital
+PR,Curitiba,Carlos,1980,39.5,57.3,3.2,,,
+PR,Curitiba,Carlos,1991,33.3,62.3,4.4,,,
+PR,Curitiba,Carlos,2000,28.7,65.6,5.7,,,
+PR,Curitiba,Carlos,2010,22.9,69.6,7.6,33.0,,
+PR,Curitiba,Carlos,2022,19.2,69.5,11.3,59.2,35,89.4
+RS,Porto Alegre,Eduardo,1980,32.4,62.9,4.7,,,
+RS,Porto Alegre,Eduardo,1991,30.1,64.1,5.8,,,
+RS,Porto Alegre,Eduardo,2000,26.1,66.7,7.2,,,
+RS,Porto Alegre,Eduardo,2010,20.8,69.9,9.3,44.6,,
+RS,Porto Alegre,Eduardo,2022,17.5,68.4,14.1,80.4,38,85.2
+MG,Belo Horizonte,Elisa,1980,38.1,57.9,4.0,,,
+MG,Belo Horizonte,Elisa,1991,33.9,61.1,5.0,,,
+MG,Belo Horizonte,Elisa,2000,28.4,65.4,6.2,,,
+MG,Belo Horizonte,Elisa,2010,22.4,69.4,8.1,36.3,,
+MG,Belo Horizonte,Elisa,2022,18.1,69.6,12.4,68.6,36,86.8
+BA,Salvador,Jorge,1980,44.0,51.9,4.2,,,
+BA,Salvador,Jorge,1991,39.7,55.5,4.8,,,
+BA,Salvador,Jorge,2000,32.0,62.3,5.7,,,
+BA,Salvador,Jorge,2010,25.6,67.1,7.2,28.3,,
+BA,Salvador,Jorge,2022,20.2,69.1,10.6,52.6,35,83.8
+SC,Florianopolis,Roberto,1980,37.7,58.9,3.5,,,
+SC,Florianopolis,Roberto,1991,33.1,62.5,4.4,,,
+SC,Florianopolis,Roberto,2000,28.2,66.4,5.4,,,
+SC,Florianopolis,Roberto,2010,21.8,71.3,6.9,31.8,,
+SC,Florianopolis,Roberto,2022,18.7,70.9,10.4,55.8,35,91.9
